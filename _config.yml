@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Guillaume Perrin"
-  avatar           : "/Users/perring/Documents/GitHub/guillaumeperrin.github.io/images/profile.png"
+  avatar           : "profile.png"
   bio              : "I am research-engineer at CEA. My main interest lies in Statistical Learning and VV-UQ approaches."
 #  location         : "Location"
 #  employer         :
