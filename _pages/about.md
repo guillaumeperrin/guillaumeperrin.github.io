@@ -1,18 +1,15 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Research topics"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Research topics
-======
-...
-...
-...
+1. ...
+2. ...
+3. ...
 
 Recent and current PhD students
 ======
