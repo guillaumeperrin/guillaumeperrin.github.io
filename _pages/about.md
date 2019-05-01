@@ -1,4 +1,5 @@
 ---
+permalink: /
 ---
 
 Research topics
