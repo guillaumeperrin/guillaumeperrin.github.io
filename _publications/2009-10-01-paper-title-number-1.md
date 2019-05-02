@@ -6,9 +6,8 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2009-04
 venue: 'Journal 1'
 paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/00423114.2019.1601745?journalCode=nvsd20'
-citation: 'Christine Funfschilling & Guillaume Perrin (2019). &quot;Uncertainty quantification in vehicle dynamics.&quot; <i>Vehicle System Dynamics l 1</i>. 1(1).'
+citation: 'Christine Funfschilling & Guillaume Perrin (2019). &quot;Uncertainty quantification in vehicle dynamics.&quot; <i>Vehicle System Dynamics </i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 DOI: 10.1080/00423114.2019.1601745
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
