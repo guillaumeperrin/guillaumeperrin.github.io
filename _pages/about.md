@@ -7,9 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-1. Statistical learning.
-2. Inverse problems in statistics.
-3. VV-UQ approaches (verification, validation, uncertainty quantification).
+
+1. Statistical learning
+2. Inverse problems in statistics
+3. VV-UQ approaches (verification, validation, uncertainty quantification)
 
 Recent and current PhD students
 ======
