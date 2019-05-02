@@ -18,3 +18,8 @@ Recent and current PhD students
 * [David Lebel](http://www.theses.fr/s143757)
 * [Cecile Haberstrich](https://www.linkedin.com/in/cecile-haberstich-36a01798)
 * [Jhouben Cuesta-Ramirez](https://www.linkedin.com/in/jhouben-janyk-cuesta-ram%C3%ADrez-400881113)
+
+Education
+======
+* 2010 - 2013, PhD at Université Paris-Est, France.
+* 2005 - 2009, student at Ecole Polytechnique and ENPC ParisTech, France.
