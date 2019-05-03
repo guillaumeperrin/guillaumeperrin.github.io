@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to my professionnal homepage !"
+title                    : "Welcome to my professionnal homepage."
 title_separator          : "-"
 name                     : &name "Guillaume Perrin"
 description              : &description "personal description"
